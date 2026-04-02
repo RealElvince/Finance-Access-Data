@@ -1,0 +1,301 @@
+,cluster_type,gender_of_household_head,gender_of_respondent,age,age_coded,Marital_status,Religion_respondent,region,agegroup,education,education_femhead,income_earners_hh,religiongp,numeracy,fin_literacy,bank_usage,mobile_money_usage,savings_usage,credit_usage,mobile,monthly_income,Household_size
+0,Urban,Female,Female,21,16-30,Married/Living with partner,Christianity,Lower Eastern,18-25yrs,Secondary,Primary,One,Christianity,Medium,High,Never had,Never had,Currently have,Used to have,Yes,8000,3
+1,Rural,Male,Female,56,46-60,Married/Living with partner,Christianity,Central Rift,>55yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Used to have,Currently have,No,2000,2
+2,Rural,Male,Male,21,16-30,Single,Christianity,North Rift,18-25yrs,Primary,None,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,14000,8
+3,Urban,Male,Female,35,31-45,Married/Living with partner,Islam,Upper Eastern,26-35yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,32000,9
+4,Rural,Female,Female,27,16-30,Married/Living with partner,Christianity,North Rift,26-35yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,500,2
+5,Rural,Female,Female,70,61-75,Widowed,Islam,Upper Eastern,>55yrs,None,None,One,Islam,Low,Low,Never had,Never had,Never had,Never had,No,3000,3
+6,Rural,Male,Female,16,16-30,Single,Christianity,Middle Eastern,16-17yrs,Primary,Primary,None,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,100,9
+7,Rural,Female,Male,30,16-30,Married/Living with partner,Islam,North Eastern,26-35yrs,None,None,None,Islam,Medium,Low,Never had,Never had,Never had,Never had,Yes,4000,6
+8,Rural,Male,Male,21,16-30,Single,Christianity,Central Rift,18-25yrs,Primary,,Two,Christianity,High,High,Never had,Never had,Never had,Never had,Yes,2000,5
+9,Urban,Male,Female,36,31-45,Married/Living with partner,Traditional African,Nyanza,36-45yrs,Primary,Primary,Two,Other/No Answer,Low,Medium,Never had,Used to have,Never had,Never had,No,37200,6
+10,Rural,Male,Female,48,46-60,Married/Living with partner,Islam,Coast,46-55yrs,None,None,Three,Islam,Medium,Low,Never had,Never had,Used to have,Used to have,No,1000,6
+11,Rural,Male,Female,30,16-30,Single,Christianity,Coast,26-35yrs,Secondary,Primary,One,Christianity,High,Medium,Never had,Never had,Never had,Never had,Yes,200,10
+12,Rural,Female,Female,60,46-60,Married/Living with partner,Islam,Upper Eastern,>55yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,10000,3
+13,Rural,Male,Male,16,16-30,Single,Christianity,North Rift,16-17yrs,Secondary,None,One,Christianity,High,Medium,Never had,Never had,Never had,Never had,Yes,600,3
+14,Rural,Male,Male,17,16-30,Single,Christianity,Central Rift,16-17yrs,Primary,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,15000,7
+15,Rural,Female,Female,30,16-30,Married/Living with partner,Islam,North Eastern,26-35yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,3500,9
+16,Urban,Male,Female,64,61-75,Married/Living with partner,Islam,North Eastern,>55yrs,None,None,None,Islam,High,Low,Never had,Never had,Never had,Never had,No,9000,6
+17,Rural,Male,Female,39,31-45,Married/Living with partner,Christianity,Western,36-45yrs,Primary,None,More than three,Christianity,Low,Low,Never had,Never had,Used to have,Never had,No,2500,8
+18,Rural,Female,Female,16,16-30,Single,Christianity,North Rift,16-17yrs,Secondary,None,One,Christianity,High,Medium,Never had,Used to have,Never had,Never had,No,1000,6
+19,Rural,Male,Female,19,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Secondary,Secondary,None,Christianity,High,Medium,Never had,Never had,Used to have,Used to have,No,2500,2
+20,Urban,Male,Female,21,16-30,Married/Living with partner,Christianity,Central Rift,18-25yrs,Primary,Secondary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,3000,3
+21,Rural,Female,Female,90,>75,Widowed,Christianity,Nyanza,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1000,2
+22,Rural,Female,Female,73,61-75,Widowed,Christianity,Western,>55yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,200,2
+23,Rural,Male,Female,45,31-45,Married/Living with partner,Christianity,Middle Eastern,36-45yrs,None,None,None,Christianity,Low,Low,Never had,Used to have,Never had,Never had,No,10000,7
+24,Urban,Female,Female,57,46-60,Married/Living with partner,Islam,North Eastern,>55yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,8000,4
+25,Urban,Male,Male,16,16-30,Single,Islam,Coast,16-17yrs,Primary,,Two,Islam,Medium,Low,Never had,Never had,Never had,Never had,No,600,6
+26,Urban,Female,Male,18,16-30,Single,Christianity,Upper Eastern,18-25yrs,Primary,Primary,One,Christianity,Low,Medium,Never had,Never had,Currently have,Never had,No,1500,5
+27,Rural,Male,Female,20,16-30,Married/Living with partner,Christianity,Central Rift,18-25yrs,Primary,Primary,One,Christianity,High,Low,Never had,Never had,Used to have,Used to have,No,8200,3
+28,Rural,Female,Female,80,>75,Widowed,Christianity,Middle Eastern,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,3000,1
+29,Rural,Male,Female,45,31-45,Married/Living with partner,Christianity,Western,36-45yrs,None,None,None,Christianity,Medium,Low,Never had,Never had,Used to have,Never had,Yes,10000,5
+30,Rural,Male,Male,80,>75,Married/Living with partner,Islam,Upper Eastern,>55yrs,Primary,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,10000,5
+31,Rural,Male,Male,16,16-30,Single,Christianity,Nyanza,16-17yrs,Primary,Primary,Two,Christianity,High,Low,Never had,Never had,Currently have,Never had,No,100,10
+32,Urban,Male,Male,26,16-30,Married/Living with partner,Islam,Upper Eastern,26-35yrs,Secondary,None,One,Islam,Medium,High,Used to have,Never had,Used to have,Never had,Yes,12000,7
+33,Rural,Male,Male,75,61-75,Widowed,Traditional African,Lower Eastern,>55yrs,None,None,One,Other/No Answer,Low,Low,Never had,Never had,Never had,Never had,No,300,1
+34,Urban,Female,Female,74,61-75,Widowed,Christianity,Central,>55yrs,None,None,One,Christianity,Low,Medium,Never had,Never had,Never had,Never had,Yes,2000,1
+35,Rural,Male,Male,20,16-30,Married/Living with partner,No religion,Central Rift,18-25yrs,None,None,One,Other/No Answer,Low,Low,Never had,Never had,Never had,Currently have,No,250000,2
+36,Urban,Male,Female,18,16-30,Single,Islam,Upper Eastern,18-25yrs,Primary,,Two,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,10000,5
+37,Rural,Male,Male,32,31-45,Married/Living with partner,Islam,Upper Eastern,26-35yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,5000,8
+38,Rural,Male,Female,32,31-45,Married/Living with partner,Christianity,Western,26-35yrs,Primary,Primary,One,Christianity,Medium,Low,Never had,Never had,Never had,Never had,Yes,6000,8
+39,Rural,Male,Female,18,16-30,Married/Living with partner,Christianity,North Rift,18-25yrs,Primary,Secondary,One,Christianity,Low,Medium,Never had,Used to have,Never had,Never had,No,3000,3
+40,Urban,Female,Male,17,16-30,Single,Christianity,Nairobi,16-17yrs,Secondary,Secondary,One,Christianity,Low,Medium,Used to have,Used to have,Used to have,Currently have,Yes,6000,4
+41,Rural,Male,Female,65,61-75,Married/Living with partner,Islam,Coast,>55yrs,None,None,One,Islam,Low,Medium,Never had,Never had,Never had,Never had,No,3000,6
+42,Rural,Male,Male,45,31-45,Married/Living with partner,Christianity,Middle Eastern,36-45yrs,Primary,Primary,Two,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,8000,5
+43,Rural,Female,Female,76,>75,Widowed,Islam,Coast,>55yrs,None,None,Two,Islam,Low,Low,Never had,Never had,Never had,Never had,No,3000,2
+44,Urban,Male,Female,16,16-30,Single,Islam,Upper Eastern,16-17yrs,Primary,None,One,Islam,Medium,Low,Never had,Never had,Never had,Never had,No,200,8
+45,Rural,Female,Male,23,16-30,Single,Christianity,Central Rift,18-25yrs,Primary,None,One,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,500,2
+46,Rural,Male,Female,20,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Primary,Primary,Two,Christianity,Medium,High,Never had,Never had,Never had,Never had,Yes,5000,5
+47,Urban,Male,Male,56,46-60,Widowed,No religion,Central,>55yrs,Primary,,One,Other/No Answer,Low,Medium,Never had,Never had,Never had,Used to have,No,8000,4
+48,Rural,Male,Male,89,>75,Married/Living with partner,No religion,Coast,>55yrs,None,None,One,Other/No Answer,Low,Low,Never had,Never had,Never had,Never had,No,500,5
+49,Rural,Female,Female,17,16-30,Single,Christianity,Central Rift,16-17yrs,Secondary,None,One,Christianity,Medium,Medium,Never had,Never had,Never had,Never had,Yes,1000,4
+50,Rural,Male,Female,20,16-30,Married/Living with partner,Christianity,Western,18-25yrs,Primary,Primary,One,Christianity,High,Low,Never had,Never had,Never had,Never had,No,5000,5
+51,Rural,Male,Female,19,16-30,Married/Living with partner,Islam,North Eastern,18-25yrs,None,None,One,Islam,High,Low,Never had,Never had,Never had,Never had,No,13000,1
+52,Urban,Male,Male,27,16-30,Single,Islam,Upper Eastern,26-35yrs,Secondary,Primary,One,Islam,Medium,High,Used to have,Never had,Used to have,Used to have,Yes,5000,8
+53,Rural,Male,Female,50,46-60,Married/Living with partner,Christianity,Nyanza,46-55yrs,Primary,Primary,Two,Christianity,Medium,Low,Never had,Never had,Used to have,Never had,No,1500,4
+54,Rural,Male,Female,38,31-45,Married/Living with partner,Christianity,North Rift,36-45yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,6000,7
+55,Rural,Female,Female,68,61-75,Widowed,Christianity,South Rift,>55yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1500,6
+56,Rural,Male,Female,16,16-30,Single,Christianity,Central,16-17yrs,Primary,,Two,Christianity,Medium,Medium,Never had,Never had,Never had,Currently have,No,100,4
+57,Rural,Female,Female,20,16-30,Don’t know/Refused to answer,Christianity,South Rift,18-25yrs,None,None,None,Christianity,Low,Low,Used to have,Never had,Used to have,Never had,No,5000,7
+58,Rural,Male,Male,37,31-45,Married/Living with partner,Islam,Coast,36-45yrs,Primary,None,One,Islam,Low,High,Never had,Never had,Never had,Never had,No,1200,1
+59,Urban,Male,Female,20,16-30,Single,Christianity,Nairobi,18-25yrs,Secondary,,Three,Christianity,Low,High,Never had,Never had,Never had,Never had,Yes,5000,7
+60,Urban,Male,Male,100,>75,Widowed,Christianity,Central,>55yrs,Primary,Primary,None,Christianity,Low,Low,Used to have,Never had,Used to have,Used to have,No,2000,1
+61,Urban,Male,Female,25,16-30,Married/Living with partner,Christianity,North Rift,18-25yrs,None,None,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,3000,5
+62,Rural,Male,Male,58,46-60,Divorced/Separated,No religion,South Rift,>55yrs,None,,One,Other/No Answer,Low,Low,Never had,Never had,Currently have,Currently have,No,5000,1
+63,Rural,Female,Female,90,>75,Widowed,Christianity,Nyanza,>55yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,200,1
+64,Rural,Male,Female,76,>75,Married/Living with partner,Christianity,Western,>55yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,100,2
+65,Rural,Male,Male,50,46-60,Married/Living with partner,Christianity,Coast,46-55yrs,None,None,One,Christianity,Low,High,Never had,Never had,Never had,Used to have,No,3700,4
+66,Rural,Female,Female,80,>75,Single,Christianity,Western,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1000,1
+67,Rural,Female,Female,63,61-75,Widowed,Christianity,Middle Eastern,>55yrs,Primary,Primary,Two,Christianity,Medium,Low,Never had,Never had,Never had,Never had,Yes,15000,4
+68,Rural,Female,Female,60,46-60,Married/Living with partner,Islam,North Eastern,>55yrs,None,None,None,Islam,High,Low,Never had,Never had,Never had,Never had,Yes,16000,3
+69,Urban,Female,Female,22,16-30,Married/Living with partner,Christianity,Lower Eastern,18-25yrs,Secondary,Secondary,One,Christianity,Low,Medium,Used to have,Never had,Never had,Used to have,No,2000,3
+70,Rural,Male,Female,28,16-30,Married/Living with partner,Christianity,Nyanza,26-35yrs,Secondary,Secondary,Two,Christianity,Medium,Medium,Never had,Never had,Never had,Currently have,Yes,2250,5
+71,Rural,Male,Female,22,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Primary,Primary,Two,Christianity,Low,High,Never had,Never had,Never had,Never had,No,30000,15
+72,Urban,Female,Male,18,16-30,Single,Christianity,Central,18-25yrs,Secondary,Secondary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,500,4
+73,Urban,Female,Female,24,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Primary,Primary,Two,Christianity,Medium,Low,Never had,Never had,Used to have,Used to have,Yes,5500,4
+74,Rural,Male,Male,62,61-75,Married/Living with partner,Christianity,Western,>55yrs,Primary,None,Two,Christianity,Medium,Medium,Never had,Never had,Used to have,Never had,No,2500,7
+75,Rural,Male,Female,30,16-30,Married/Living with partner,Christianity,Lower Eastern,26-35yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,6000,5
+76,Urban,Male,Female,21,16-30,Married/Living with partner,Christianity,Middle Eastern,18-25yrs,Secondary,Secondary,One,Christianity,Medium,High,Used to have,Never had,Used to have,Used to have,Yes,6000,3
+77,Urban,Female,Female,67,61-75,Widowed,Islam,Coast,>55yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,600,3
+78,Urban,Male,Female,22,16-30,Married/Living with partner,Christianity,Middle Eastern,18-25yrs,Secondary,Secondary,One,Christianity,High,Medium,Never had,Never had,Never had,Used to have,No,8000,3
+79,Urban,Male,Male,20,16-30,Single,Christianity,Nyanza,18-25yrs,Primary,Primary,Two,Christianity,Medium,Low,Never had,Never had,Never had,Never had,Yes,3000,2
+80,Rural,Male,Female,28,16-30,Married/Living with partner,Christianity,North Rift,26-35yrs,None,None,Two,Christianity,Low,Low,Never had,Never had,Never had,Used to have,No,2200,7
+81,Rural,Female,Female,85,>75,Widowed,Christianity,Central,>55yrs,None,None,None,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,3000,1
+82,Rural,Female,Female,35,31-45,Widowed,Christianity,Middle Eastern,26-35yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,3000,3
+83,Rural,Male,Female,20,16-30,Married/Living with partner,Islam,North Eastern,18-25yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,2500,7
+84,Rural,Female,Male,17,16-30,Single,Christianity,Western,16-17yrs,Primary,,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,60,8
+85,Rural,Male,Male,16,16-30,Single,Islam,Upper Eastern,16-17yrs,Primary,None,One,Islam,High,Medium,Never had,Never had,Never had,Used to have,Yes,700,6
+86,Rural,Male,Male,73,61-75,Divorced/Separated,Christianity,Central Rift,>55yrs,None,,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1000,1
+87,Rural,Male,Female,16,16-30,Single,Christianity,North Rift,16-17yrs,Primary,None,One,Christianity,Medium,Low,Never had,Never had,Never had,Never had,No,20,2
+88,Rural,Male,Female,30,16-30,Married/Living with partner,Christianity,North Rift,26-35yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1500,5
+89,Rural,Male,Female,68,61-75,Married/Living with partner,Christianity,North Rift,>55yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1500,2
+90,Urban,Male,Female,30,16-30,Married/Living with partner,Christianity,North Rift,26-35yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,9000,8
+91,Rural,Male,Male,17,16-30,Single,Christianity,Western,16-17yrs,Secondary,None,One,Christianity,High,Low,Never had,Never had,Never had,Never had,No,300,8
+92,Rural,Male,Female,48,46-60,Married/Living with partner,Islam,Coast,46-55yrs,None,None,None,Islam,Low,Medium,Never had,Never had,Never had,Used to have,Yes,198,12
+93,Rural,Male,Female,45,31-45,Married/Living with partner,No religion,Nyanza,36-45yrs,Primary,Primary,Two,Other/No Answer,Low,Low,Never had,Never had,Used to have,Used to have,No,7350,5
+94,Rural,Female,Male,17,16-30,Single,Christianity,Nyanza,16-17yrs,Primary,None,None,Christianity,Low,Medium,Never had,Never had,Never had,Never had,Yes,1000,6
+95,Urban,Male,Male,30,16-30,Single,Christianity,Mombasa,26-35yrs,Primary,,One,Christianity,Low,High,Never had,Used to have,Used to have,Used to have,No,15000,1
+96,Urban,Male,Male,17,16-30,Single,Islam,Upper Eastern,16-17yrs,Secondary,None,One,Islam,High,Medium,Never had,Never had,Never had,Never had,Yes,2000,11
+97,Urban,Male,Male,53,46-60,Married/Living with partner,Islam,Mombasa,46-55yrs,None,None,Two,Islam,High,Medium,Never had,Never had,Never had,Never had,Yes,15000,7
+98,Rural,Male,Male,35,31-45,Married/Living with partner,Christianity,Nyanza,26-35yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,3100,3
+99,Rural,Male,Female,25,16-30,Married/Living with partner,Islam,North Eastern,18-25yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,3000,4
+100,Rural,Female,Female,70,61-75,Widowed,Christianity,Nyanza,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Used to have,Used to have,No,6600,3
+101,Rural,Male,Male,45,31-45,Widowed,Christianity,Middle Eastern,36-45yrs,None,,One,Christianity,Medium,Low,Never had,Never had,Never had,Never had,No,10000,1
+102,Urban,Male,Female,24,16-30,Married/Living with partner,Christianity,South Rift,18-25yrs,Primary,Primary,Two,Christianity,Low,Medium,Used to have,Never had,Used to have,Used to have,Yes,5700,5
+103,Rural,Male,Female,17,16-30,Married/Living with partner,Islam,Coast,16-17yrs,Primary,Primary,One,Islam,Medium,Low,Never had,Never had,Never had,Never had,No,1000,3
+104,Rural,Female,Male,18,16-30,Single,Christianity,Nyanza,18-25yrs,Secondary,,One,Christianity,Medium,Medium,Never had,Never had,Never had,Never had,Yes,17000,4
+105,Rural,Male,Female,82,>75,Divorced/Separated,Christianity,Central Rift,>55yrs,None,None,Two,Christianity,Low,Low,Never had,Never had,Used to have,Currently have,Yes,2500,3
+106,Rural,Male,Male,60,46-60,Widowed,Christianity,South Rift,>55yrs,Primary,Primary,Two,Christianity,Medium,Low,Never had,Never had,Never had,Never had,No,,8
+107,Urban,Male,Female,19,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Primary,Primary,None,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,500,3
+108,Rural,Male,Female,55,46-60,Widowed,Islam,North Eastern,46-55yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,2000,2
+109,Rural,Male,Female,20,16-30,Married/Living with partner,Islam,North Eastern,18-25yrs,None,None,None,Islam,High,Low,Never had,Never had,Never had,Never had,No,12000,7
+110,Rural,Male,Male,60,46-60,Single,Christianity,North Rift,>55yrs,None,,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,3000,1
+111,Urban,Male,Male,22,16-30,Single,Christianity,Coast,18-25yrs,Secondary,,Two,Christianity,Low,Low,Never had,Never had,Never had,Used to have,No,500,6
+112,Rural,Male,Male,77,>75,Married/Living with partner,No religion,Coast,>55yrs,None,Primary,Two,Other/No Answer,Low,Low,Never had,Never had,Never had,Never had,No,4000,4
+113,Rural,Male,Female,28,16-30,Married/Living with partner,Christianity,Middle Eastern,26-35yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,30000,5
+114,Rural,Female,Female,50,46-60,Widowed,Christianity,North Rift,46-55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1000,3
+115,Rural,Female,Female,16,16-30,Single,Islam,Upper Eastern,16-17yrs,None,None,None,Islam,Medium,Low,Never had,Never had,Never had,Used to have,Yes,1000,6
+116,Rural,Female,Female,38,31-45,Married/Living with partner,Christianity,Lower Eastern,36-45yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Currently have,Never had,No,5000,8
+117,Rural,Male,Female,25,16-30,Married/Living with partner,Christianity,Central Rift,18-25yrs,Primary,None,One,Christianity,Medium,Low,Never had,Never had,Never had,Never had,No,2000,7
+118,Urban,Female,Female,38,31-45,Widowed,Christianity,Mombasa,36-45yrs,None,None,One,Christianity,Low,High,Used to have,Never had,Used to have,Never had,No,9999,5
+119,Urban,Male,Female,17,16-30,Single,Christianity,Nyanza,16-17yrs,Primary,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,200,4
+120,Urban,Male,Female,35,31-45,Married/Living with partner,Islam,North Eastern,26-35yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,6500,7
+121,Urban,Male,Male,35,31-45,Divorced/Separated,Christianity,Nyanza,26-35yrs,Primary,Primary,One,Christianity,High,Low,Never had,Never had,Never had,Never had,Yes,4500,6
+122,Rural,Female,Female,16,16-30,Single,Christianity,Lower Eastern,16-17yrs,Primary,Primary,None,Christianity,Medium,Low,Never had,Never had,Never had,Never had,Yes,500,3
+123,Rural,Male,Male,35,31-45,Married/Living with partner,Islam,North Eastern,26-35yrs,None,None,One,Islam,Low,Low,Never had,Never had,Never had,Never had,No,10000,2
+124,Urban,Male,Female,19,16-30,Single,Islam,Upper Eastern,18-25yrs,Primary,,Two,Islam,Low,Medium,Never had,Never had,Never had,Never had,No,9000,13
+125,Rural,Male,Female,27,16-30,Married/Living with partner,Christianity,Central Rift,26-35yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,4000,3
+126,Urban,Female,Female,75,61-75,Widowed,Christianity,Western,>55yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Used to have,No,3000,1
+127,Urban,Male,Male,18,16-30,Single,Christianity,Western,18-25yrs,Secondary,Tertiary,None,Christianity,High,High,Never had,Never had,Never had,Never had,No,5000,5
+128,Rural,Male,Female,42,31-45,Married/Living with partner,Christianity,Central Rift,36-45yrs,Primary,None,One,Christianity,Low,Medium,Used to have,Never had,Used to have,Never had,Yes,1000,10
+129,Rural,Male,Female,28,16-30,Married/Living with partner,Christianity,Nyanza,26-35yrs,Primary,Primary,None,Christianity,Low,Medium,Never had,Never had,Used to have,Never had,No,200,8
+130,Rural,Female,Female,20,16-30,Married/Living with partner,Christianity,Western,18-25yrs,Primary,Primary,One,Christianity,Medium,Medium,Never had,Never had,Used to have,Never had,No,800,3
+131,Rural,Male,Female,23,16-30,Single,Christianity,Western,18-25yrs,Secondary,Primary,None,Christianity,High,Medium,Never had,Never had,Never had,Used to have,No,1000,11
+132,Rural,Male,Male,30,16-30,Married/Living with partner,Islam,Coast,26-35yrs,Primary,None,One,Islam,Medium,Low,Never had,Never had,Never had,Used to have,No,5000,5
+133,Urban,Male,Female,22,16-30,Married/Living with partner,Christianity,Mombasa,18-25yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,3000,3
+134,Rural,Female,Female,18,16-30,Single,Islam,North Eastern,18-25yrs,Secondary,None,None,Islam,Low,Medium,Never had,Never had,Never had,Never had,No,2000,11
+135,Urban,Male,Female,16,16-30,Single,Christianity,North Rift,16-17yrs,Secondary,Primary,Two,Christianity,High,High,Never had,Never had,Never had,Never had,No,200,8
+136,Urban,Male,Male,65,61-75,Single,Islam,North Eastern,>55yrs,None,,One,Islam,High,Low,Never had,Never had,Never had,Never had,Yes,25000,1
+137,Rural,Male,Male,18,16-30,Single,Christianity,Nyanza,18-25yrs,Secondary,,One,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,6000,2
+138,Urban,Male,Female,19,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Secondary,Secondary,One,Christianity,Low,Medium,Never had,Never had,Never had,Never had,No,2000,3
+139,Urban,Male,Male,16,16-30,Single,Islam,Upper Eastern,16-17yrs,Secondary,,One,Islam,Medium,Medium,Never had,Never had,Never had,Never had,No,1000,5
+140,Urban,Female,Female,39,31-45,Widowed,Christianity,Middle Eastern,36-45yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Used to have,Used to have,No,9000,4
+141,Rural,Male,Female,18,16-30,Single,Islam,Upper Eastern,18-25yrs,Secondary,None,None,Islam,Medium,High,Never had,Never had,Never had,Never had,No,4000,4
+142,Rural,Female,Female,17,16-30,Single,Christianity,Nyanza,16-17yrs,Primary,Primary,One,Christianity,High,Low,Never had,Never had,Never had,Used to have,No,,5
+143,Rural,Male,Female,17,16-30,Single,Christianity,Nyanza,16-17yrs,Primary,Secondary,One,Christianity,Medium,High,Never had,Never had,Never had,Never had,No,300,4
+144,Urban,Female,Female,19,16-30,Single,Christianity,Nyanza,18-25yrs,Secondary,Primary,One,Christianity,High,High,Never had,Never had,Never had,Never had,Yes,3000,4
+145,Rural,Female,Female,21,16-30,Single,Christianity,Central,18-25yrs,Secondary,None,Two,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,500,3
+146,Rural,Male,Male,70,61-75,Married/Living with partner,Islam,North Eastern,>55yrs,None,None,None,Islam,High,Low,Never had,Never had,Never had,Never had,Yes,2000,8
+147,Rural,Female,Female,65,61-75,Widowed,Islam,Coast,>55yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,5000,5
+148,Rural,Male,Female,30,16-30,Married/Living with partner,Christianity,Central Rift,26-35yrs,Secondary,Secondary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,800,6
+149,Urban,Male,Female,16,16-30,Single,Christianity,Western,16-17yrs,Secondary,None,Two,Christianity,High,Low,Never had,Never had,Never had,Used to have,No,,10
+150,Rural,Female,Female,25,16-30,Married/Living with partner,Islam,North Eastern,18-25yrs,None,None,None,Islam,High,Low,Never had,Never had,Never had,Never had,Yes,15000,8
+151,Rural,Male,Female,20,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Primary,Primary,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,200,12
+152,Rural,Male,Male,35,31-45,Married/Living with partner,Islam,North Eastern,26-35yrs,None,None,None,Islam,High,Low,Never had,Never had,Never had,Never had,Yes,9000,6
+153,Urban,Female,Male,20,16-30,Single,Islam,Coast,18-25yrs,Primary,,One,Islam,Low,High,Never had,Never had,Never had,Used to have,No,23000,1
+154,Rural,Male,Female,30,16-30,Married/Living with partner,Christianity,Coast,26-35yrs,Primary,Primary,One,Christianity,Medium,Medium,Never had,Never had,Never had,Used to have,No,5000,5
+155,Urban,Female,Male,35,31-45,Single,Christianity,Coast,26-35yrs,Secondary,None,One,Christianity,Medium,Medium,Never had,Never had,Never had,Never had,Yes,8000,3
+156,Rural,Male,Male,31,31-45,Married/Living with partner,Christianity,Central Rift,26-35yrs,Primary,Primary,One,Christianity,High,Medium,Never had,Never had,Currently have,Used to have,Yes,7500,4
+157,Rural,Male,Male,39,31-45,Single,Christianity,Middle Eastern,36-45yrs,Primary,,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,6000,1
+158,Urban,Male,Male,36,31-45,Divorced/Separated,Islam,North Eastern,36-45yrs,None,None,One,Islam,Medium,Low,Never had,Never had,Never had,Never had,Yes,600,2
+159,Rural,Male,Female,44,31-45,Married/Living with partner,Christianity,South Rift,36-45yrs,Primary,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,2600,7
+160,Urban,Male,Male,65,61-75,Married/Living with partner,Christianity,North Rift,>55yrs,Secondary,None,Two,Christianity,Low,Low,Never had,Never had,Never had,Used to have,No,2000,3
+161,Urban,Female,Female,80,>75,Widowed,Christianity,Nyanza,>55yrs,None,None,None,Christianity,Low,Medium,Never had,Never had,Never had,Never had,No,400,4
+162,Rural,Male,Male,35,31-45,Married/Living with partner,Christianity,Western,26-35yrs,Primary,Primary,One,Christianity,Medium,Low,Never had,Never had,Never had,Never had,No,4000,11
+163,Rural,Male,Male,24,16-30,Single,Christianity,Western,18-25yrs,Primary,None,One,Christianity,Low,Low,Never had,Used to have,Currently have,Never had,Yes,13000,1
+164,Rural,Male,Male,39,31-45,Widowed,Christianity,South Rift,36-45yrs,Primary,,One,Christianity,Medium,Low,Never had,Never had,Never had,Currently have,No,1400,6
+165,Rural,Male,Female,64,61-75,Married/Living with partner,Christianity,Nyanza,>55yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,,3
+166,Rural,Male,Female,16,16-30,Single,Christianity,Central,16-17yrs,Primary,,One,Christianity,High,Low,Never had,Never had,Never had,Used to have,No,500,4
+167,Urban,Male,Male,45,31-45,Divorced/Separated,Christianity,Central,36-45yrs,Primary,,One,Christianity,High,Low,Never had,Never had,Never had,Never had,No,6000,1
+168,Rural,Female,Female,70,61-75,Widowed,Christianity,Central,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,5000,4
+169,Urban,Male,Male,16,16-30,Single,Christianity,Lower Eastern,16-17yrs,Primary,Primary,One,Christianity,High,Low,Never had,Never had,Never had,Never had,No,200,6
+170,Urban,Male,Female,16,16-30,Single,Christianity,South Rift,16-17yrs,Secondary,None,Two,Christianity,High,High,Never had,Never had,Never had,Never had,No,,8
+171,Rural,Male,Female,19,16-30,Married/Living with partner,Christianity,Western,18-25yrs,Primary,Primary,One,Christianity,Low,Medium,Never had,Never had,Never had,Used to have,No,7500,3
+172,Urban,Male,Male,17,16-30,Single,Christianity,Mombasa,16-17yrs,Secondary,,One,Christianity,Medium,Medium,Never had,Never had,Currently have,Never had,Yes,2000,3
+173,Rural,Female,Female,70,61-75,Widowed,Islam,North Eastern,>55yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,200,5
+174,Rural,Male,Male,16,16-30,Single,Christianity,Nyanza,16-17yrs,Primary,Primary,One,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,300,7
+175,Rural,Male,Male,52,46-60,Married/Living with partner,Christianity,North Rift,46-55yrs,Primary,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,5000,1
+176,Urban,Male,Male,23,16-30,Single,Islam,Upper Eastern,18-25yrs,Secondary,Tertiary,One,Islam,Medium,Medium,Never had,Never had,Never had,Never had,Yes,70000,10
+177,Rural,Male,Female,16,16-30,Single,Christianity,Nyanza,16-17yrs,Secondary,None,One,Christianity,High,Low,Never had,Never had,Never had,Never had,No,200,4
+178,Urban,Female,Female,66,61-75,Divorced/Separated,Islam,Mombasa,>55yrs,None,None,None,Islam,Low,Medium,Never had,Used to have,Used to have,Never had,No,999,2
+179,Rural,Male,Female,18,16-30,Married/Living with partner,Christianity,South Rift,18-25yrs,Secondary,Secondary,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,3500,4
+180,Urban,Female,Male,20,16-30,Single,Christianity,South Rift,18-25yrs,Secondary,,One,Christianity,High,Low,Never had,Never had,Never had,Never had,Yes,1000,8
+181,Urban,Male,Female,65,61-75,Married/Living with partner,Hinduism,Central Rift,>55yrs,Tertiary,None,One,Other/No Answer,Low,Low,Never had,Never had,Never had,Never had,Yes,20000,1
+182,Rural,Female,Female,65,61-75,Divorced/Separated,Christianity,North Rift,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,3500,3
+183,Rural,Female,Female,45,31-45,Widowed,Christianity,North Rift,36-45yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,3000,4
+184,Rural,Male,Male,25,16-30,Married/Living with partner,Islam,North Eastern,18-25yrs,None,None,None,Islam,Medium,Low,Never had,Never had,Never had,Never had,Yes,6000,10
+185,Rural,Male,Male,50,46-60,Married/Living with partner,Christianity,North Rift,46-55yrs,None,None,Two,Christianity,Low,Low,Never had,Used to have,Never had,Used to have,No,2000,8
+186,Urban,Male,Male,23,16-30,Single,Christianity,South Rift,18-25yrs,Primary,,One,Christianity,High,High,Never had,Never had,Currently have,Never had,Yes,10000,1
+187,Rural,Male,Female,18,16-30,Single,Christianity,Central,18-25yrs,Secondary,Primary,Two,Christianity,Medium,Medium,Never had,Never had,Never had,Never had,No,300,10
+188,Rural,Female,Female,16,16-30,Single,Christianity,South Rift,16-17yrs,Primary,None,None,Christianity,Medium,Low,Never had,Never had,Never had,Never had,No,,5
+189,Rural,Female,Female,35,31-45,Married/Living with partner,Christianity,Middle Eastern,26-35yrs,Primary,Primary,One,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,2000,3
+190,Urban,Male,Female,40,31-45,Married/Living with partner,Christianity,Central Rift,36-45yrs,Primary,None,Two,Christianity,Low,Low,Never had,Never had,Used to have,Never had,No,3000,5
+191,Rural,Female,Female,43,31-45,Widowed,Islam,Coast,36-45yrs,None,None,One,Islam,Low,Low,Never had,Never had,Never had,Never had,No,2000,1
+192,Urban,Female,Female,92,>75,Widowed,Christianity,Lower Eastern,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,400,1
+193,Rural,Female,Female,23,16-30,Single,Christianity,Coast,18-25yrs,Primary,Primary,One,Christianity,Low,High,Never had,Used to have,Never had,Never had,No,3000,2
+194,Rural,Male,Female,32,31-45,Married/Living with partner,Christianity,Western,26-35yrs,Primary,Primary,None,Christianity,Medium,Medium,Never had,Never had,Never had,Never had,No,1000,4
+195,Rural,Male,Female,33,31-45,Married/Living with partner,Christianity,Western,26-35yrs,Primary,Primary,One,Christianity,Low,High,Never had,Never had,Used to have,Used to have,Yes,14000,3
+196,Rural,Male,Male,85,>75,Married/Living with partner,Christianity,Lower Eastern,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Used to have,No,300,2
+197,Rural,Male,Female,28,16-30,Married/Living with partner,Christianity,Upper Eastern,26-35yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1000,5
+198,Rural,Female,Female,20,16-30,Divorced/Separated,Christianity,Western,18-25yrs,Primary,,One,Christianity,Low,Medium,Never had,Never had,Used to have,Never had,No,1000,9
+199,Rural,Male,Female,24,16-30,Married/Living with partner,Islam,North Eastern,18-25yrs,None,None,One,Islam,Medium,Low,Never had,Never had,Never had,Never had,Yes,7000,5
+200,Rural,Male,Female,20,16-30,Married/Living with partner,Islam,North Eastern,18-25yrs,None,None,None,Islam,Medium,Low,Never had,Never had,Never had,Never had,Yes,15000,7
+201,Rural,Female,Male,18,16-30,Single,Christianity,Lower Eastern,18-25yrs,Primary,,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,4000,3
+202,Rural,Female,Female,35,31-45,Married/Living with partner,Islam,North Eastern,26-35yrs,None,None,None,Islam,High,Low,Never had,Never had,Never had,Never had,Yes,5000,7
+203,Urban,Male,Female,17,16-30,Married/Living with partner,Christianity,Mombasa,16-17yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Used to have,No,4000,2
+204,Rural,Female,Female,29,16-30,Divorced/Separated,Christianity,Middle Eastern,26-35yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Used to have,No,2500,3
+205,Rural,Female,Male,22,16-30,Single,Christianity,Nyanza,18-25yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Used to have,Used to have,No,,4
+206,Rural,Female,Female,16,16-30,Single,Christianity,Lower Eastern,16-17yrs,Secondary,Primary,One,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,200,4
+207,Rural,Male,Male,20,16-30,Single,Christianity,Western,18-25yrs,Primary,,None,Christianity,Medium,Medium,Never had,Never had,Used to have,Never had,No,7000,11
+208,Rural,Female,Female,20,16-30,Married/Living with partner,Christianity,Coast,18-25yrs,Primary,None,More than three,Christianity,Medium,Low,Never had,Never had,Never had,Used to have,No,2500,17
+209,Rural,Female,Female,65,61-75,Widowed,Islam,North Eastern,>55yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,4000,6
+210,Rural,Female,Female,16,16-30,Single,Christianity,Lower Eastern,16-17yrs,Primary,Primary,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,500,7
+211,Rural,Male,Female,67,61-75,Married/Living with partner,Christianity,Central Rift,>55yrs,None,None,One,Christianity,Low,Low,Used to have,Never had,Never had,Used to have,No,1400,5
+212,Rural,Female,Female,70,61-75,Widowed,Christianity,Central Rift,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1500,7
+213,Rural,Male,Male,58,46-60,Married/Living with partner,Christianity,Central Rift,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,8000,6
+214,Rural,Male,Male,46,46-60,Divorced/Separated,No religion,Central Rift,46-55yrs,Primary,None,One,Other/No Answer,Low,Low,Never had,Never had,Never had,Never had,No,0,5
+215,Urban,Male,Male,70,61-75,Married/Living with partner,Islam,Mombasa,>55yrs,None,None,One,Islam,Low,High,Never had,Never had,Used to have,Used to have,Yes,21000,2
+216,Rural,Male,Female,34,31-45,Married/Living with partner,Islam,North Eastern,26-35yrs,None,None,None,Islam,Medium,Low,Never had,Never had,Never had,Never had,Yes,6000,11
+217,Rural,Male,Male,39,31-45,Divorced/Separated,Christianity,Lower Eastern,36-45yrs,Primary,None,One,Christianity,Medium,Medium,Never had,Used to have,Used to have,Used to have,No,10000,1
+218,Rural,Male,Male,17,16-30,Single,Christianity,Nyanza,16-17yrs,Secondary,None,One,Christianity,Low,Medium,Never had,Never had,Never had,Never had,Yes,1000,3
+219,Rural,Male,Female,26,16-30,Married/Living with partner,Christianity,Western,26-35yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Used to have,Used to have,No,1500,6
+220,Rural,Male,Female,35,31-45,Married/Living with partner,Islam,Upper Eastern,26-35yrs,Primary,Primary,One,Islam,Low,Low,Never had,Never had,Never had,Never had,No,20000,8
+221,Rural,Female,Male,20,16-30,Married/Living with partner,Christianity,South Rift,18-25yrs,Primary,Primary,Two,Christianity,High,Low,Never had,Never had,Never had,Used to have,No,2300,4
+222,Urban,Male,Female,21,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Primary,Primary,One,Christianity,Low,Medium,Never had,Never had,Never had,Used to have,Yes,12000,4
+223,Rural,Female,Female,37,31-45,Married/Living with partner,Islam,North Eastern,36-45yrs,None,None,One,Islam,Medium,Medium,Never had,Never had,Never had,Never had,Yes,10000,1
+224,Rural,Female,Female,57,46-60,Widowed,Christianity,Nyanza,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1960,1
+225,Rural,Male,Female,45,31-45,Married/Living with partner,Islam,North Eastern,36-45yrs,None,None,None,Islam,High,Low,Never had,Never had,Never had,Never had,Yes,20000,10
+226,Rural,Male,Male,78,>75,Widowed,Christianity,Coast,>55yrs,None,,One,Christianity,Low,Medium,Never had,Never had,Never had,Never had,No,3000,1
+227,Urban,Female,Female,17,16-30,Single,Christianity,Western,16-17yrs,Secondary,None,Three,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1000,6
+228,Rural,Female,Male,16,16-30,Single,Christianity,Central Rift,16-17yrs,Primary,Secondary,Two,Christianity,High,Medium,Never had,Never had,Never had,Never had,No,200,7
+229,Urban,Female,Female,20,16-30,Single,Christianity,Nyanza,18-25yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,1000,1
+230,Rural,Female,Female,16,16-30,Single,Christianity,Middle Eastern,16-17yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,5200,7
+231,Rural,Male,Male,29,16-30,Married/Living with partner,Islam,Coast,26-35yrs,Primary,Primary,One,Islam,Medium,Medium,Used to have,Never had,Used to have,Never had,Yes,6000,5
+232,Urban,Male,Male,53,46-60,Married/Living with partner,Christianity,Lower Eastern,46-55yrs,Secondary,Primary,One,Christianity,Medium,Medium,Never had,Never had,Never had,Used to have,No,2800,3
+233,Urban,Male,Female,25,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Secondary,Secondary,Two,Christianity,Low,Medium,Never had,Never had,Currently have,Never had,Yes,200,3
+234,Urban,Female,Female,18,16-30,Single,Christianity,Nairobi,18-25yrs,Secondary,,One,Christianity,Low,Medium,Never had,Used to have,Used to have,Used to have,Yes,9500,3
+235,Rural,Male,Male,43,31-45,Married/Living with partner,Christianity,Nyanza,36-45yrs,Tertiary,Primary,One,Christianity,High,Low,Never had,Used to have,Currently have,Never had,Yes,5000,7
+236,Rural,Male,Female,20,16-30,Married/Living with partner,Islam,North Eastern,18-25yrs,None,None,One,Islam,Medium,Low,Never had,Never had,Never had,Used to have,Yes,5000,2
+237,Urban,Female,Female,16,16-30,Single,Christianity,Central Rift,16-17yrs,Primary,Secondary,One,Christianity,Medium,Medium,Never had,Never had,Never had,Never had,No,450,3
+238,Rural,Male,Male,27,16-30,Single,Christianity,Central,26-35yrs,Secondary,,Three,Christianity,Low,High,Never had,Used to have,Used to have,Used to have,No,4500,3
+239,Rural,Male,Female,29,16-30,Married/Living with partner,Christianity,Nyanza,26-35yrs,Primary,Primary,Two,Christianity,Low,Medium,Used to have,Never had,Used to have,Never had,No,1700,2
+240,Urban,Male,Female,22,16-30,Married/Living with partner,Islam,Mombasa,18-25yrs,Primary,Primary,One,Islam,Low,Medium,Never had,Never had,Never had,Used to have,No,2000,3
+241,Rural,Male,Female,28,16-30,Married/Living with partner,Christianity,Upper Eastern,26-35yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,20000,5
+242,Rural,Male,Female,31,31-45,Married/Living with partner,Christianity,Middle Eastern,26-35yrs,Primary,Primary,One,Christianity,High,Medium,Never had,Never had,Never had,Used to have,Yes,12000,5
+243,Rural,Male,Female,29,16-30,Married/Living with partner,Christianity,Lower Eastern,26-35yrs,Primary,Primary,One,Christianity,Low,Medium,Never had,Used to have,Used to have,Used to have,Yes,600,5
+244,Urban,Female,Female,30,16-30,Widowed,Christianity,South Rift,26-35yrs,Primary,Primary,Three,Christianity,Medium,Low,Never had,Never had,Used to have,Never had,No,28000,4
+245,Rural,Male,Female,19,16-30,Single,Christianity,Nyanza,18-25yrs,Primary,None,One,Christianity,Medium,Low,Never had,Never had,Never had,Never had,No,500,4
+246,Rural,Female,Female,28,16-30,Widowed,Christianity,North Rift,26-35yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,3500,4
+247,Urban,Female,Female,61,61-75,Widowed,Christianity,Coast,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,2000,5
+248,Urban,Female,Female,70,61-75,Widowed,Christianity,Central Rift,>55yrs,None,None,One,Christianity,Low,Medium,Used to have,Never had,Used to have,Never had,Yes,850,2
+249,Rural,Female,Male,17,16-30,Single,Islam,Upper Eastern,16-17yrs,Secondary,None,One,Islam,Low,Low,Never had,Never had,Never had,Never had,No,1000,6
+250,Rural,Female,Female,31,31-45,Divorced/Separated,Christianity,South Rift,26-35yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Used to have,Used to have,Used to have,No,7000,3
+251,Rural,Male,Male,26,16-30,Married/Living with partner,Islam,Coast,26-35yrs,Primary,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,10000,7
+252,Rural,Male,Female,45,31-45,Married/Living with partner,Christianity,Middle Eastern,36-45yrs,Primary,None,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,4000,4
+253,Rural,Female,Female,45,31-45,Widowed,Christianity,Upper Eastern,36-45yrs,None,None,None,Christianity,Medium,Low,Never had,Never had,Never had,Never had,No,25000,5
+254,Rural,Male,Male,18,16-30,Widowed,Islam,North Eastern,18-25yrs,None,None,None,Islam,Medium,Low,Never had,Never had,Never had,Never had,No,2000,3
+255,Rural,Male,Female,35,31-45,Married/Living with partner,Islam,Coast,26-35yrs,None,None,One,Islam,Low,Low,Never had,Never had,Never had,Currently have,No,3000,9
+256,Urban,Male,Male,20,16-30,Single,Christianity,Lower Eastern,18-25yrs,Primary,Primary,Three,Christianity,High,Medium,Never had,Never had,Never had,Never had,Yes,2000,8
+257,Urban,Female,Male,19,16-30,Single,Christianity,Lower Eastern,18-25yrs,Primary,Primary,One,Christianity,Medium,Medium,Never had,Never had,Never had,Used to have,Yes,2000,4
+258,Rural,Female,Female,35,31-45,Widowed,Christianity,Middle Eastern,26-35yrs,None,None,One,Christianity,High,Low,Never had,Never had,Never had,Never had,No,2000,2
+259,Rural,Male,Male,36,31-45,Married/Living with partner,Islam,North Eastern,36-45yrs,None,None,None,Islam,High,Low,Never had,Never had,Never had,Never had,Yes,2500,5
+260,Rural,Male,Female,21,16-30,Married/Living with partner,Christianity,North Rift,18-25yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Used to have,Yes,1500,5
+261,Rural,Male,Female,41,31-45,Don’t know/Refused to answer,Christianity,Upper Eastern,36-45yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,8000,6
+262,Rural,Female,Female,40,31-45,Married/Living with partner,Islam,North Eastern,36-45yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,1000,9
+263,Rural,Male,Male,42,31-45,Married/Living with partner,Christianity,North Rift,36-45yrs,Primary,None,One,Christianity,Medium,Low,Never had,Never had,Never had,Never had,No,8000,1
+264,Rural,Female,Female,25,16-30,Single,Christianity,North Rift,18-25yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,3200,2
+265,Rural,Female,Female,84,>75,Widowed,Christianity,Western,>55yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,500,1
+266,Urban,Female,Female,48,46-60,Married/Living with partner,Islam,North Eastern,46-55yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,10000,4
+267,Rural,Male,Male,72,61-75,Married/Living with partner,Christianity,Central,>55yrs,Primary,,Two,Christianity,Low,Low,Used to have,Never had,Used to have,Used to have,No,5000,3
+268,Rural,Male,Male,40,31-45,Married/Living with partner,Islam,North Eastern,36-45yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,No,2500,11
+269,Rural,Female,Female,60,46-60,Widowed,Christianity,Western,>55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,600,1
+270,Urban,Male,Male,21,16-30,Single,Christianity,Mombasa,18-25yrs,Primary,,More than three,Christianity,Medium,High,Never had,Never had,Never had,Never had,No,2500,4
+271,Rural,Male,Female,35,31-45,Married/Living with partner,Christianity,Western,26-35yrs,Primary,Primary,Two,Christianity,Low,Medium,Never had,Never had,Never had,Never had,No,3000,6
+272,Rural,Male,Female,35,31-45,Married/Living with partner,Christianity,Central Rift,26-35yrs,Primary,Primary,Two,Christianity,High,High,Never had,Never had,Used to have,Used to have,No,7000,7
+273,Urban,Female,Female,20,16-30,Single,Islam,Upper Eastern,18-25yrs,Primary,Primary,One,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,3000,1
+274,Rural,Female,Female,49,46-60,Married/Living with partner,Christianity,Coast,46-55yrs,None,None,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,500,7
+275,Rural,Male,Male,27,16-30,Married/Living with partner,Islam,Upper Eastern,26-35yrs,Primary,None,None,Islam,Low,Low,Never had,Used to have,Never had,Never had,No,1500,5
+276,Rural,Male,Female,20,16-30,Married/Living with partner,Islam,Coast,18-25yrs,None,None,One,Islam,Medium,Low,Never had,Never had,Never had,Never had,No,2000,3
+277,Rural,Male,Female,25,16-30,Married/Living with partner,Christianity,Upper Eastern,18-25yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,Yes,5000,5
+278,Urban,Female,Female,71,61-75,Widowed,Traditional African,Nyanza,>55yrs,None,None,One,Other/No Answer,Low,Low,Never had,Never had,Never had,Never had,No,1500,1
+279,Urban,Female,Female,35,31-45,Don’t know/Refused to answer,Christianity,Western,26-35yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Used to have,Never had,No,3000,3
+280,Urban,Male,Male,18,16-30,Single,Christianity,Lower Eastern,18-25yrs,Secondary,,Two,Christianity,Low,High,Never had,Never had,Never had,Never had,No,300,3
+281,Urban,Male,Male,40,31-45,Married/Living with partner,Islam,North Eastern,36-45yrs,None,None,One,Islam,Low,Low,Never had,Never had,Never had,Never had,No,4500,10
+282,Rural,Male,Male,100,>75,Widowed,Christianity,Lower Eastern,>55yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1000,1
+283,Urban,Male,Female,16,16-30,Single,Christianity,Mombasa,16-17yrs,Primary,,Two,Christianity,Medium,Medium,Never had,Never had,Currently have,Never had,No,1000,10
+284,Rural,Male,Female,60,46-60,Married/Living with partner,Christianity,Central,>55yrs,None,,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,8000,2
+285,Urban,Male,Female,20,16-30,Married/Living with partner,Christianity,Central Rift,18-25yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1000,3
+286,Urban,Male,Female,17,16-30,Single,Christianity,Central Rift,16-17yrs,Primary,,One,Christianity,Low,High,Never had,Used to have,Never had,Never had,No,5000,3
+287,Urban,Female,Female,27,16-30,Widowed,Islam,North Eastern,26-35yrs,None,None,None,Islam,Low,Low,Never had,Never had,Never had,Never had,Yes,3000,8
+288,Urban,Male,Male,50,46-60,Married/Living with partner,Christianity,Coast,46-55yrs,Primary,,One,Christianity,Medium,Medium,Used to have,Never had,Used to have,Currently have,Yes,4000,8
+289,Urban,Female,Female,50,46-60,Widowed,Christianity,North Rift,46-55yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,1500,6
+290,Rural,Male,Female,36,31-45,Married/Living with partner,Christianity,Central Rift,36-45yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Used to have,Never had,No,5000,3
+291,Urban,Male,Male,28,16-30,Single,Christianity,South Rift,26-35yrs,Primary,Primary,Three,Christianity,Low,Medium,Never had,Never had,Never had,Never had,No,200,7
+292,Rural,Male,Female,22,16-30,Married/Living with partner,Christianity,Nyanza,18-25yrs,Primary,Primary,One,Christianity,Low,Low,Never had,Never had,Used to have,Used to have,Yes,3500,5
+293,Urban,Male,Male,23,16-30,Single,Christianity,Middle Eastern,18-25yrs,Primary,None,Two,Christianity,Medium,Medium,Never had,Never had,Never had,Never had,Yes,2000,2
+294,Rural,Female,Female,85,>75,Divorced/Separated,Christianity,Central Rift,>55yrs,None,None,None,Christianity,Low,Low,Never had,Never had,Never had,Used to have,No,200,1
+295,Urban,Female,Female,18,16-30,Single,Christianity,Central,18-25yrs,Secondary,Secondary,One,Christianity,High,Medium,Never had,Never had,Never had,Never had,Yes,7000,1
+296,Rural,Male,Female,18,16-30,Single,Christianity,Western,18-25yrs,Primary,,None,Christianity,Low,Medium,Never had,Never had,Never had,Never had,No,500,8
+297,Rural,Female,Female,43,31-45,Widowed,Christianity,Nyanza,36-45yrs,Secondary,Secondary,Two,Christianity,Medium,Medium,Never had,Never had,Never had,Never had,No,300,5
+298,Rural,Male,Male,78,>75,Married/Living with partner,Christianity,Central Rift,>55yrs,Primary,Primary,Two,Christianity,Low,Low,Never had,Never had,Never had,Never had,No,8000,3
+299,Urban,Female,Female,45,31-45,Divorced/Separated,Islam,Central Rift,36-45yrs,Primary,Primary,One,Islam,Low,Low,Never had,Never had,Never had,Never had,No,1580,4
