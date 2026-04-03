@@ -1,5 +1,6 @@
 # libraries
 library(dplyr)
+library(tidyr)
 
 getwd()
 
@@ -30,7 +31,7 @@ finance_access_factor <- finance_access_factor %>% mutate(
     case_when(
       religiongp == "NA"~"Christianity",
       religiongp == "Islam"~"Islam",
-      religiongp == "other/No Answer"~"Other"
+      religiongp == "Other/No Answer"~"Other"
     )
 ) %>% mutate_if(is.character,as.factor)
 
@@ -38,3 +39,11 @@ levels(finance_access_factor$religiongp)
 summary(finance_access_factor)
 
 View(finance_access)
+
+# drop NAs use na.omit(data)
+na.omit(finance_access_factor)
+
+finance_access_factor <- finance_access_factor %>% drop_na(Marital_status,monthly_income)
+
+
+
