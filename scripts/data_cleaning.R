@@ -23,4 +23,18 @@ finance_access_factor <- finance_access_factor %>% mutate(
       )
   ) %>% mutate_if(is.character,as.factor)
 
-levels(finance_access_factor$Marital_status)
+# Religiongroup other/no answer with other
+
+finance_access_factor <- finance_access_factor %>% mutate(
+  religiongp=
+    case_when(
+      religiongp == "NA"~"Christianity",
+      religiongp == "Islam"~"Islam",
+      religiongp == "other/No Answer"~"Other"
+    )
+) %>% mutate_if(is.character,as.factor)
+
+levels(finance_access_factor$religiongp)
+summary(finance_access_factor)
+
+View(finance_access)
