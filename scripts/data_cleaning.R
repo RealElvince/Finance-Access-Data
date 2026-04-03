@@ -19,7 +19,7 @@ finance_access_factor <- finance_access_factor %>% mutate(
       Marital_status == "Widowed"~"Widowed",
       Marital_status == "Single"~"Single",
       Marital_status == "Married/Living with partner"~"Married",
-      Marital_status == "Don’t know/Refused to answer"~"NA",
+      Marital_status == "Don’t know/Refused to answer"~NA,
       Marital_status == "Divorced/Separated"~"Divorced"
       )
   ) %>% mutate_if(is.character,as.factor)
