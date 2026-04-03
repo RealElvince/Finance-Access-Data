@@ -26,3 +26,5 @@ View(gender_mobile_count)
 
 gender_mobile_graph <- ggplot(gender_mobile_count,aes(x = gender_of_household_head, y = percent1, fill = mobile))+
                       geom_bar(stat = "identity",position = position_dodge2())
+dev.new()
+gender_mobile_graph
